@@ -308,15 +308,3 @@
     }
     
   }
-
-  body {
-    animation: body 5s;
-  }
-
-  @keyframes body {
-
-    0% {
-        overflow: hidden;
-    }
-    
-  }
